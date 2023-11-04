@@ -11,7 +11,7 @@ Welcome to the Panda Bottom Bar App – your go-to solution for creating beautif
 
 1. **Clone the Repository**: 
    ```bash
-   git clone https://github.com/YourUsername/YourRepository.git
+   git clone https://github.com/awwais/panda_bottom_bar.git
 
 2. **Download Dependencies**:
    ```bash
@@ -20,6 +20,7 @@ Welcome to the Panda Bottom Bar App – your go-to solution for creating beautif
 3. **Run the App**:
    ```bash
    flutter run
+
 
 
 <table>

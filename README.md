@@ -4,7 +4,7 @@ Welcome to the Panda Bottom Bar App – your go-to solution for creating beautif
 
 [![GitHub sponsors](https://img.shields.io/badge/sponsor-awwais-brightgreen)](https://github.com/sponsors/awwais)
 
-![Cool GIF](/Github/your-gif.gif)
+![Cool GIF](![mine](https://github.com/awwais/panda_bottom_bar/assets/101943094/3b29ff25-8ec4-4576-b8d3-f414ef46ae11))
 
 
 ## Installation

@@ -25,16 +25,16 @@ Welcome to the Panda Bottom Bar App – your go-to solution for creating beautif
 <table>
   <tr>
     <td align="center">
-      <img src="/Github/image1.jpg" width="200" alt="Image 1">
+      <img src="/Github/image1.png" width="200" alt="Image 1">
     </td>
     <td align="center">
-      <img src="/Github/image2.jpg" width="200" alt="Image 2">
+      <img src="/Github/image2.png" width="200" alt="Image 2">
     </td>
     <td align="center">
-      <img src="/Github/image3.jpg" width="200" alt="Image 3">
+      <img src="/Github/image3.png" width="200" alt="Image 3">
     </td>
     <td align="center">
-      <img src="/Github/image4.jpg" width="200" alt="Image 4">
+      <img src="/Github/image4.png" width="200" alt="Image 4">
     </td>
   </tr>
 </table>
@@ -45,7 +45,7 @@ If you like this app, please consider sponsoring me on GitHub. It helps me to ke
 
 Star this Repo and Sponsor me so I can keep my tummy full with bambooo 🐼
 
-[![GitHub sponsors](https://img.shields.io/badge/sponsor-awwais-brightgreen)](https://github.com/sponsors/awwaiss)
+[![GitHub sponsors](https://img.shields.io/badge/sponsor-awwais-brightgreen)](https://github.com/sponsors/awwais)
 
 ## License
 

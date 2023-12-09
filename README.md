@@ -42,9 +42,9 @@ Welcome to the Panda Bottom Bar App – your go-to solution for creating beautif
 
 ## Sponsorship
 
-If you like this app, please consider sponsoring me on GitHub. It helps me to keep developing and maintaining this app.
+If you like this app:
 
-Star this Repo and Sponsor me so I can keep my tummy full with bambooo 🐼
+Star this Repo so I can keep my tummy full with bambooo 🐼
 
 [![GitHub sponsors](https://img.shields.io/badge/sponsor-awwais-brightgreen)](https://github.com/sponsors/awwais)
 
